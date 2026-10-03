@@ -241,10 +241,3 @@ dist\Witcher3_Dual_Subtitles.exe
 
 第三方材料仍受其各自权利所有者及相应许可证约束。请参阅
 `THIRD_PARTY_NOTICES.txt`。
-
-## 作者
-
-**Yuxing In Łódź**
-
-程序右下角包含一个 `Dev. Yuxing Łódź` 链接，可用于跳转到本项目的 GitHub
-仓库。

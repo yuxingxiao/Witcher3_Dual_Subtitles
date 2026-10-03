@@ -270,10 +270,3 @@ released under the **MIT License**. See `LICENSE`.
 
 Third-party materials remain subject to their respective owners and
 licenses. See `THIRD_PARTY_NOTICES.txt`.
-
-## Author
-
-**Yuxing In Łódź**
-
-The application includes a small `Dev. Yuxing Łódź` link that can point
-to the project's GitHub repository.
