@@ -1,0 +1,13 @@
+{
+    "name": "DualSubtitlesUI",
+    "modName": "Dual Subtitles UI AutoFit",
+    "version": "1.3.0",
+    "gameVersion": "29",
+    "description": "Bilingual menu width and two-line submenu adaptation.",
+    "author": "",
+    "idSpace": 10000000,
+    "workshopId": 0,
+    "succesfullyCooked": true,
+    "dependencies": [],
+    "useLooseScripts": false
+}

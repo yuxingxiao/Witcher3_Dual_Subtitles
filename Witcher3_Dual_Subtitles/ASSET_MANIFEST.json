@@ -1,0 +1,16 @@
+{
+  "release": "1.0.0",
+  "required_runtime_assets": {
+    "assets/modDualSubtitlesUI": "Bilingual menu adaptation MOD produced for The Witcher 3.",
+    "assets/modDualSubtitlesFontBase/content/bilingual.bundle": "Locally prepared and tested Universal font base bundle. Not included in this source RC.",
+    "assets/modDualSubtitlesFontBase/content/metadata.store": "Matching metadata for bilingual.bundle. Not included in this source RC.",
+    "assets/font_templates/fonts_cn.swf": "Original/local CN font template.",
+    "assets/font_templates/fonts_zh.swf": "Original/local ZH font template.",
+    "assets/font_templates/fonts_jp.swf": "Original/local JP font template.",
+    "assets/font_templates/fonts_kr.swf": "Original/local KR font template.",
+    "assets/font_templates/fonts_ar.swf": "Original/local AR font template.",
+    "assets/font_templates/fonts_ru.swf": "Original/local RU font template.",
+    "assets/font_templates/fonts_ua.swf": "Original/local UA font template.",
+    "assets/font_templates/fonts_en.swf": "Original/local EN font template."
+  }
+}

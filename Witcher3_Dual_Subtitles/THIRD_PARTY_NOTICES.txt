@@ -1,0 +1,38 @@
+THIRD-PARTY NOTICES
+===================
+
+The Witcher 3: Wild Hunt / REDkit
+---------------------------------
+The Witcher, The Witcher 3: Wild Hunt, REDkit and related game assets,
+trademarks and intellectual property belong to their respective owners,
+including CD PROJEKT S.A. / CD PROJEKT RED and other licensors.
+
+This project is an unofficial fan-made tool and is not approved or endorsed
+by CD PROJEKT RED.
+
+CD PROJEKT RED's Fan Content Guidelines permit fan-made mods subject to their
+terms, including non-commercial use and the relevant game/REDkit agreements.
+The Witcher 3 REDkit EULA states that REDkit-created mods may be used only as
+part of The Witcher 3: Wild Hunt and for non-commercial purposes.
+
+Public release caution
+----------------------
+Do not assume that the MIT license for this program grants redistribution
+rights for extracted game files, REDkit files, or embedded fonts.
+
+Before publishing a binary package, independently verify that every bundled
+asset may be redistributed. If that permission is unclear, distribute only
+the original program code and require users to supply/create the relevant
+assets from their own lawful installation.
+
+Fonts
+-----
+No third-party font license is granted by this project's MIT license.
+If a release contains font data, consult the exact font's license and retain
+all required notices. Do not substitute a font license based only on a font
+family name.
+
+Python / Tk
+-----------
+The program uses Python standard-library modules including tkinter/ttk.
+No third-party Python package is required by the current release source.
