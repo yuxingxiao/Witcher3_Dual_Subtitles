@@ -37,7 +37,7 @@ VERSION = 164
 APP_VERSION = "1.0.0"
 APP_NAME = "The Witcher 3 Dual Subtitles"
 # Set this before publishing.
-GITHUB_URL = "https://github.com/YOUR_GITHUB_USERNAME"
+GITHUB_URL = "https://github.com/yuxingxiao/Witcher3_Dual_Subtitles"
 
 # Witcher 3 language key/magic values used by PL and ZH.
 LANGUAGES = {
